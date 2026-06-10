@@ -25,9 +25,11 @@ To run the experiments for quantiles:
 - Save it as "books.csv" in this directory. Then use
 
 > cd ..
+
 > python -m dp_multiq.run_experiment
 
 ### Mean
 To run the experiments for the mean:
 > cd experiments/mean
+
 > python run_experiment
