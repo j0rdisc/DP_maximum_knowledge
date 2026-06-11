@@ -1,5 +1,7 @@
 # Maximum-Knowledge Differential Privacy: Reproducibility Repository
-This repository contains the code and supplementary material accompanying the paper.
+This repository contains the code and supplementary material accompanying the paper. If you use this supplementary material or code in your research, please cite the main paper:
+
+J. Soria-Comas, D. Megías, D. Sánchez, and J. Domingo-Ferrer, "Boosting Utility in Differential Privacy without Losing Privacy: the Maximum-Knowledge Assumption," 2026 (Under Review).
 
 ## Repository Structure
 
