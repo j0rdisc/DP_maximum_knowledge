@@ -10,7 +10,8 @@ J. Soria-Comas, D. Megías, D. Sánchez, and J. Domingo-Ferrer, "Boosting Utilit
 ├── proofs/               # Detailed mathematical derivations
 └── experiments/
     ├── mean              # Experiments for the mean
-    └── dp_multiq/        # Experiments for quantiles
+    ├── dp_multiq/        # Experiments for quantiles
+    └── knowledge_ratio/  # Experiments for privacy evaluation
 ```
 
 ## Supplementary Material
